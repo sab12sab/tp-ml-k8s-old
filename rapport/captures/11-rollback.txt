@@ -1,0 +1,9 @@
+﻿rollout history:
+REVISION  CHANGE-CAUSE
+3         v1 : bc-api:1.0 + modeles v1 (linear)
+4         v2 : bc-api:2.0 + modeles v2 (forest)
+
+apres undo:
+bc-api-58dc9c9668   0  (v2)
+bc-api-67786b6fb6   3  (v1 active)
+app_version 1.0 / model v1 / linear
